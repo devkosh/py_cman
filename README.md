@@ -8,10 +8,10 @@ To try out my algorithms you need:
 1.Download this project --> <a>here</a>.
 2.Unarchive project.
 3.Change your directory to the dir of the master-py_cman though your console or IDE.
-<ul>
-  <li>Console</li>
-  <li><code>$ cd .../master-py_cman</code></li>
-<ul>
+
+Console
+<code>$ cd .../master-py_cman</code>
+
 4.To try DFS type in console:
 For big maze
 <code>$ python pacman.py -l bigMaze -p SearchAgent -a fn=dfs -z .5</code>
