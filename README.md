@@ -5,34 +5,34 @@ I was using <a href = "http://ai.berkeley.edu/search.html#Introduction">UC Berke
 
 To try out my algorithms you need:
 
-1.Download this project --> <a href = "">here</a>.
+1.Download this project --> <a href = "https://github.com/hlikosh/py_cman/archive/master.zip">here</a>.
 
 2.Unarchive project.
 
 3.Change your directory to the dir of the master-py_cman though your console or IDE.
 
 Console
-'''
+```
 $ cd .../master-py_cman
-''''
+```
 
 4.To try DFS type in console:
 For big maze
-'''
+```
 $ python pacman.py -l bigMaze -p SearchAgent -a fn=dfs -z .5
-'''
+```
 For open maze
-'''
+```
 $ python pacman.py -l openMaze -p SearchAgent -a fn=dfs -z .5
-'''
+```
 5.To try BFS type in console:
 For big maze
-'''
+```
 $ python pacman.py -l bigMaze -p SearchAgent -a fn=bfs -z .5
-'''
+```
 For open maze
-'''
+```
 $ python pacman.py -l openMaze -p SearchAgent -a fn=bfs -z .5
-'''
+```
 
 <h4>Thank you for your attention!</h4>
